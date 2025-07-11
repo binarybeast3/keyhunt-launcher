@@ -1,2 +1,5 @@
-# Keyhunt Launcher
-Launcher script for running keyhunt.exe with custom ranges.
+# KeyHunt Launcher
+
+See [`README-sq.md`](README-sq.md) for Albanian.
+
+This is a custom launcher for keyhunt.exe...
